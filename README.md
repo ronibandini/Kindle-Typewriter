@@ -30,3 +30,16 @@ Copy the .sh as you copy a book
 Start kterm
 chmod +x kindletypewriter.sh
 bash kindletypewriter.sh
+
+# Enclosure
+https://cults3d.com/en/3d-model/gadget/kindle-typewriter
+
+# Demo
+https://youtube.com/shorts/zqP4vBvvqx0
+
+# Contact
+Roni Bandini
+https://www.instagram.com/ronibandini/
+https://x.com/RoniBandini
+
+
